@@ -1,0 +1,2 @@
+Prefix plugins/JasperBanner/example/
+Plugin JasperBanner inputfile none outputfile none
